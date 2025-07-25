@@ -1,0 +1,1 @@
+"nrf":"/Users/leannanguyen/nrf_devkit/ncs/nrf":"/Users/leannanguyen/nrf_devkit/ncs/nrf/sysbuild"
