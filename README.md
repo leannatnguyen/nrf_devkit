@@ -16,3 +16,22 @@
 4. Flash
     ```bash
     west flash
+
+
+# Repo Overview
+Eventual structure of the repo:
+```plaintext
+app/
+├── gpio/
+├── uart/
+├── spi/
+├── i2c/
+├── ble/
+├── power/
+├── storage/
+├── timer/
+├── adc/
+├── pwm/
+├── cli/
+├── tests/
+
